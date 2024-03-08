@@ -57,10 +57,10 @@ User Stories
 - Agile workflow - Implementation and delegation of tasks better tracked.
 
 ## Screenshots of wireframing and database schema
-![Local Image](assets/images/20240305_114724.jpeg)
-![Local Image](assets/images/Screenshot 2024-03-05 at 13.17.30.png)
-![Local Image](assets/images/Screenshot 2024-03-05 at 13.17.38.png)
-![Local Image](assets/images/Screenshot 2024-03-05 at 16.16.50.png)
+![Local Image](/assets/images/20240305_114724.jpg)
+![Local Image](/assets/images/Screenshot 2024-03-05 at 13.17.30.png)
+![Local Image](/assets/images/Screenshot 2024-03-05 at 13.17.38.png)
+![Local Image](/assets/images/Screenshot 2024-03-05 at 16.16.50.png)
 
 
 ## Acknowledgments
