@@ -58,9 +58,9 @@ User Stories
 
 ## Screenshots of wireframing and database schema
 ![Local Image](/assets/images/20240305_114724.jpg)
-![Local Image](/assets/images/Screenshot 2024-03-05 at 13.17.30.png)
-![Local Image](/assets/images/Screenshot 2024-03-05 at 13.17.38.png)
-![Local Image](/assets/images/Screenshot 2024-03-05 at 16.16.50.png)
+![Local Image](/assets/images/Screenshot%202024-03-05%20at%2013.17.30.png)
+![Local Image](/assets/images/Screenshot%202024-03-05%20at%2013.17.38.png)
+![Local Image](/assets/images/Screenshot%202024-03-05%20at%2016.16.50.png)
 
 
 ## Acknowledgments
