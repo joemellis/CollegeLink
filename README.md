@@ -34,10 +34,11 @@
 - UserProfile page will display registered users bio, display a list of Activities from the database,the data base can be filtered thus updating the content on the page to be relevant
 
 ## Ideation
-
 ### Collaborative Ideation Doc
 all ideation was performed on slack via huddles and notic boards https://app.slack.com/client/T0L30B202/dms?cdn_fallback=2
-
+our trello board was used to tack the agile work flow https://trello.com/b/tac7AIAl/hackathon-3-thoroughbreds-coders
+## Screenshots of trello Board
+![Local Image](/assets/images/trello%20board.PNG)
 
 ### User Stories
 User Stories
